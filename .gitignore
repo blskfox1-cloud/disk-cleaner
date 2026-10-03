@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# Файлы, которые создаёт сама программа
+largest_files_*.csv
+largest_folders_*.csv
+
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
+*.lnk
+*.tmp
+~$*
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
